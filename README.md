@@ -1,2 +1,1 @@
-# newaoecornell
-New website 2019-2020
+# AOE Cornell 2022 Website
